@@ -1,14 +1,3 @@
-آها، متوجه شدم! 🎯  
-شما فقط و فقط می‌خوای **توضیحات API و نحوه تستش** رو در یک باکس کامل (Markdown Cell توی Jupyter Notebook) داشته باشی تا بتونی همه‌چیز رو **یکجا کپی کنی** و داخل نوت‌بوک قرار بدی.
-
----
-
-## ✅ اینجا هست:  
-# 📄 تنها باکسی که نیاز داری — فقط API و تست
-
-این را می‌تونی توی یک سلول جدید در Jupyter Notebook بذاری (نوع سلول: `Markdown`) و تمام محتوا را کپی کنی:
-
-```markdown
 # 🚀 Breast Cancer Prediction API Documentation
 
 This section describes how to run and test the Flask-based API for breast cancer prediction using a trained XGBoost model.
